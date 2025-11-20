@@ -1,0 +1,8 @@
+.card{
+    width: 300px;
+}
+
+.carousel-caption{
+    color: aqua;
+    background-color: rgba(105, 105, 105, 0.342);
+}
